@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.3.1](https://github.com/fasttime/rewrite-test/compare/plugin-kit-v0.3.0...plugin-kit-v0.3.1) (2025-04-30)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @eslint/core bumped from ^0.13.0 to ^0.13.1
+
 ## [0.3.0](https://github.com/fasttime/rewrite-test/compare/plugin-kit-v0.2.8...plugin-kit-v0.3.0) (2025-04-30)
 
 
