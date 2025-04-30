@@ -4,6 +4,7 @@
   "description": "Runtime-agnostic core of ESLint",
   "type": "module",
   "types": "./dist/esm/types.d.ts",
+  
   "exports": {
     "types": {
       "import": "./dist/esm/types.d.ts",
