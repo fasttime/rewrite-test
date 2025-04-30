@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.3.1](https://github.com/fasttime/rewrite-test/compare/config-helpers-v0.3.0...config-helpers-v0.3.1) (2025-04-30)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @eslint/core bumped from ^0.13.0 to ^0.13.1
+
 ## [0.3.0](https://github.com/fasttime/rewrite-test/compare/config-helpers-v0.2.1...config-helpers-v0.3.0) (2025-04-30)
 
 
