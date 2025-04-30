@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.13.1](https://github.com/fasttime/rewrite-test/compare/core-v0.13.0...core-v0.13.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* test ([8f7abc8](https://github.com/fasttime/rewrite-test/commit/8f7abc81b70e87ac2cd893365bb9f238fc3afab0))
+
 ## [0.13.0](https://github.com/fasttime/rewrite-test/compare/core-v0.12.0...core-v0.13.0) (2025-04-30)
 
 
