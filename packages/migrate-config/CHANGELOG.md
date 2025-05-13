@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.5.1](https://github.com/fasttime/rewrite-test/compare/migrate-config-v1.5.0...migrate-config-v1.5.1) (2025-04-30)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @eslint/compat bumped from ^1.2.0 to ^1.2.1
+
 ## [1.5.0](https://github.com/fasttime/rewrite-test/compare/migrate-config-v1.4.1...migrate-config-v1.5.0) (2025-04-30)
 
 
